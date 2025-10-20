@@ -1,0 +1,3 @@
+[submodule "ECAD/TREX"]
+	path = ECAD/TREX
+	url = https://github.com/peter-tanner/TREX-laser-transmit-receive-PCB.git

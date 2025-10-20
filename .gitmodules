@@ -1,3 +1,6 @@
 [submodule "ECAD/TREX"]
 	path = ECAD/TREX
 	url = https://github.com/peter-tanner/TREX-laser-transmit-receive-PCB.git
+[submodule "Firmware"]
+	path = Firmware
+	url = https://github.com/jumper385/usb-phy-ip.git

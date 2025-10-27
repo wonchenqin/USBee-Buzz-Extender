@@ -4,3 +4,6 @@
 [submodule "Firmware"]
 	path = Firmware
 	url = https://github.com/jumper385/usb-phy-ip.git
+[submodule "ECAD/CTRL"]
+	path = ECAD/CTRL
+	url = https://github.com/jumper385/fsoc-ctrl-hw
